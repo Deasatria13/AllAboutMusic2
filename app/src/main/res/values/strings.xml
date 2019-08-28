@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">All About Music</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">SELESAI</string>
+    <string name="musisi_name">Nama Musisi</string>
+    <string name="from">Asal</string>
+
+    <string name="slide_1_title">Band</string>
+    <string name="slide_1_desc">Grup musik dikenal juga dengan sebutan kelompok musik, band atau ansambel musik merupakan kumpulan yang terdiri atas dua atau lebih musisi yang memainkan alat musik ataupun bernyanyi</string>
+
+    <string name="slide_2_title">Solo Vokal</string>
+    <string name="slide_2_desc"> solo vokal dalam dunia musik adalah penyanyi yang menyanyi seorang diri dengan iringan musik di belakangnya</string>
+
+
+    <string name="slide_3_title">Paduan Suara</string>
+    <string name="slide_3_desc">Paduan Suara adalah sajian musik vokal oleh beberapa orang dengan memadukan berbagai jenis suara ( timbre ) menjadi satu kesatuan yang utuh dan dapat mengungkapkan jiwa lagu yang dinyanyikan. Bentuk-bentuk paduan suara kecil antara lain : a.Bentuk Duet : Sajian musik vokal oleh 2 orang penyanyi.</string>
+
+
+</resources>

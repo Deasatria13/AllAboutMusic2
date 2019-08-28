@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#292B3D</color>
+    <color name="colorAccent">#3F51B5</color>
+    
+    
+    <color name="bg_screen1">#B12515</color>
+    <color name="bg_screen2">#FFBB00</color>
+    <color name="bg_screen3">#74a443</color>
+    
+    <color name="dot_active">#000000</color>
+    
+    <color name="dot_inactive">#cccccc</color>
+
+    <color name="startBlue">#09c6df</color>
+    <color name="endBlue">#0bcce6</color>
+    <color name="graylight">#fafafa</color>
+
+</resources>
